@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behram khan
 - 👀 I’m interested in javaScript
-- 🌱 My Tech stack is <img src="https://inceptivetechnologies.com/wp-content/uploads/2020/01/angular-node.jpg">
+- 🌱 My Tech stack is <img src="https://www.sgstechnologies.net/sites/default/files/2020-02/Angular-node-js_0.png" width="420px" height="220px">
 - 💞️ I’m looking to collaborate on Angular based Projects.
 - 📫 How to reach me ? DM my twitter @ikhabehram
 
